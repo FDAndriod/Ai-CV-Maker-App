@@ -50,7 +50,7 @@
 
 ## Screenshots
 
-![HomeScreen](screenshot/homescreen.PNG)
+![HomeScreen](homescreen.PNG)
 ![InterviewPrepScreen](screenshot/interviewpreparation.PNG)
 ![ReminderScreen](screenshot/ReminderScreen.PNG)
 ![AiToolScreen](screenshot/AiRoadMapResult.PNG)
