@@ -51,14 +51,14 @@
 ## Screenshots
 
 ![HomeScreen](homescreen.PNG)
-![InterviewPrepScreen](screenshot/interviewpreparation.PNG)
-![ReminderScreen](screenshot/ReminderScreen.PNG)
-![AiToolScreen](screenshot/AiRoadMapResult.PNG)
-![DreamJobBottomSheet](screenshot/DreamJobBottomSheet.PNG)
-![ATSEngine](screenshot/AtsEngine.PNG)
-![CoverLetterTypes](screenshot/coverlettertypes.PNG)
-![TemplateScreen](screenshot/templatesscreen.PNG)
-![SettingScreen](screenshot/settingscreen.PNG)
+![InterviewPrepScreen](interviewpreparation.PNG)
+![ReminderScreen](ReminderScreen.PNG)
+![AiToolScreen](AiRoadMapResult.PNG)
+![DreamJobBottomSheet](DreamJobBottomSheet.PNG)
+![ATSEngine](AtsEngine.PNG)
+![CoverLetterTypes](coverlettertypes.PNG)
+![TemplateScreen](templatesscreen.PNG)
+![SettingScreen](settingscreen.PNG)
 
 
 
